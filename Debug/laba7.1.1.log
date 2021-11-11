@@ -1,0 +1,4 @@
+﻿  laba7.1.1.cpp
+C:\Users\marki\Desktop\Yaryna visual studio\laba7.1.1\laba7.1.1.cpp(88,50): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\marki\Desktop\Yaryna visual studio\laba7.1.1\laba7.1.1.cpp(88,65): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  laba7.1.1.vcxproj -> C:\Users\marki\Desktop\Yaryna visual studio\laba7.1.1\Debug\laba7.1.1.exe

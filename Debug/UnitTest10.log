@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest10.cpp
+C:\Users\marki\Desktop\Yaryna visual studio\laba7.1.1\laba7.1.1.cpp(88,50): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\marki\Desktop\Yaryna visual studio\laba7.1.1\laba7.1.1.cpp(88,65): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+     Creating library C:\Users\marki\Desktop\Yaryna visual studio\laba7.1.1\Debug\UnitTest10.lib and object C:\Users\marki\Desktop\Yaryna visual studio\laba7.1.1\Debug\UnitTest10.exp
+  UnitTest10.vcxproj -> C:\Users\marki\Desktop\Yaryna visual studio\laba7.1.1\Debug\UnitTest10.dll
