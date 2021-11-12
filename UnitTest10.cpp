@@ -12,9 +12,16 @@ namespace UnitTest10
 		
 		TEST_METHOD(TestMethod1)
 		{
-			double S;
-			S = 2011.0;
-			Assert::AreEqual(S, 2011.0);
+			int S = 0, k = 0;
+			int** r = new int* [7];
+		
+			for (int i = 0; i < 7; i++)
+				r[i] = new int[6];
+			for (int i = 0; i < 7; i++)
+				for (int j = 0; j < 7; j++)
+					r[i][j] = j + 1;
+			Calc(r, 7,7, S, k);
+			Assert::AreEqual(k, 37);
 		}
 	};
 }
